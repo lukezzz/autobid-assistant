@@ -17,11 +17,10 @@ python的pyqt4小程序，
 
 
 
-### 对于拍牌功能，还可以实现的功能如下：
+### 添加如下功能即可做到全自动化
 
- - 验证码url截取，识别，自动输入
- - memory hack, ref: [Pymem], [hackManager]
- - SSL inspection, ref: [mitmproxy ]
+ - 验证码url截取，识别，自动输入, 出价提交 ref: [mitmproxy ]
+ - 通过memory hack获取到数据, ref: [Pymem], [hackManager]
 
 
 **Free Software**
